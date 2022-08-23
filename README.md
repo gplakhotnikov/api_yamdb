@@ -69,6 +69,4 @@ python3 manage.py runserver
 ```
 
 ## О разработчике / Development
-Валерий Юрченко - Тимлид
-Михаил Басков
-Grigory Plakhotnikov
+Валерий Юрченко (тимлид), Михаил Басков, Grigory Plakhotnikov
